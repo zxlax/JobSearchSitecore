@@ -216,7 +216,7 @@
     <Content Include="Fonts\fontawesome-webfont.ttf" />
     <Content Include="Fonts\fontawesome-webfont.woff" />
     <Content Include="Fonts\FontAwesome.otf" />
-    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="layouts\Sample layout.aspx" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\JobDetails.cshtml" />
