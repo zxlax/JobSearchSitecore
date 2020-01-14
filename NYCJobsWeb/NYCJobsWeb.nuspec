@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>JobSearch</id>
+    <version>1.0.0</version>
+    <title>JobSearch</title>
+    <authors>Author</authors>
+    <owners>Owner</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+  <files>
+    <file src="bin\" target="bin" />
+    <file src="Content\" target="Content" />
+    <file src="Fonts\" target="Fonts" />
+    <file src="Images\" target="Images" />
+    <file src="Scripts\" target="Scripts" />
+    <file src="Views\" target="Views" />
+    <file src="Global.asax" target="" />
+    <file src="packages.config" target="" />
+    <file src="Web.config" target="" />
+  </files>
+</package>
