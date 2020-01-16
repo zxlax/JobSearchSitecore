@@ -22,5 +22,6 @@
     <file src="Global.asax" target="" />
     <file src="packages.config" target="" />
     <file src="Web.config" target="" />
+    <file src="Unicorn\**\*.*" target="Unicorn" />
   </files>
 </package>
