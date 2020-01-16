@@ -208,12 +208,12 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.PowerShell.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Dilithium.config.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Default" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
@@ -230,7 +230,9 @@
     <Content Include="Scripts\media.match.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\script.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Unicorn\Project\Layout.Layouts\Sample Layout.yml" />
     <Content Include="Unicorn\Project\Layout.Renderings.Project\Index.yml" />
     <None Include="Web.Debug.config">
