@@ -6,7 +6,7 @@ languages:
 - csharp
 products:
 - azure
-description: "This is an Azure Search demo website based on data from the New York City Open Data initiative. Jobs listed here should not be considered active."
+description: "Tshis is an Azure Search demo website based on data from the New York City Open Data initiative. Jobs listed here should not be considered active."
 urlFragment: search-dotnet-asp-net-mvc-jobs
 ---
 
