@@ -12,6 +12,7 @@
     <copyright>Copyright 2020</copyright>
   </metadata>
   <files>
+    <file src="App_Config\**\*.config" target="App_Config" />
     <file src="bin\" target="bin" />
     <file src="Content\" target="Content" />
     <file src="Fonts\" target="Fonts" />
